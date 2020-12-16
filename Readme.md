@@ -12,7 +12,9 @@ Employee Management System</h1><br>
 
 <h4>Implementation</h4><br>
 
-![Screenshot](1.png)
+![Screenshot](7.png)
+
+![Screenshot](8.png)
 
 
 <h4>App Screens</h4><br>
@@ -20,14 +22,14 @@ Employee Management System</h1><br>
 
 <h3>Main</h3><br>
 
-![Screenshot](2.png)
+![Screenshot](1.png)
 
 
 <h3>Add</h3><br>
 
-![Screenshot](3.png)
+![Screenshot](2.png)
 
-![Screenshot](6.png)
+![Screenshot](3.png)
 
 
 <h3>Nav Bar</h3><br>
